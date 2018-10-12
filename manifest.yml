@@ -1,0 +1,4 @@
+applications:
+  - name: simple
+    path: build/simple.jar
+    memory: 1024M
